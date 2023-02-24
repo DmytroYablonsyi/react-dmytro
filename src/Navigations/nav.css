@@ -6,6 +6,8 @@ header{
     align-items: center;
     justify-content: space-around;
     border-bottom: 1px solid white;
+    position: sticky;
+    top: 1px;
 }
 a{
     color: white;
