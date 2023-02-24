@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-dmytro/static/css/main.fd3eff5f.css",
+    "main.js": "/react-dmytro/static/js/main.d92650f3.js",
+    "static/js/787.cd066fdb.chunk.js": "/react-dmytro/static/js/787.cd066fdb.chunk.js",
+    "index.html": "/react-dmytro/index.html",
+    "main.fd3eff5f.css.map": "/react-dmytro/static/css/main.fd3eff5f.css.map",
+    "main.d92650f3.js.map": "/react-dmytro/static/js/main.d92650f3.js.map",
+    "787.cd066fdb.chunk.js.map": "/react-dmytro/static/js/787.cd066fdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd3eff5f.css",
+    "static/js/main.d92650f3.js"
+  ]
+}
