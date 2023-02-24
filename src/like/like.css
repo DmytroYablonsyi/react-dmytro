@@ -2,7 +2,7 @@
     background-color: rgb(40, 52, 69);
     border: none;
     color: white;
-        display: flex;
+    display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 11px;
 }
