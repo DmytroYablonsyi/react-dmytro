@@ -1,8 +1,8 @@
 .likeButton{
-    display: flex;
+    background-color: rgb(40, 52, 69);
+    border: none;
+    color: white;
+        display: flex;
     align-items: center;
     gap: 10px;
-}
-p{
-    padding: 0;
 }

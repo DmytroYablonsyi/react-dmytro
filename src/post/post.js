@@ -20,8 +20,7 @@ const Post = ({content, date,image, author}) => {
                 <Images source={image}/>
             </div>
             <div className='userDesk'>
-                <img src='https://cdn-icons.flaticon.com/svg/3917/3917567.svg?token=exp=1677165234~hmac=5111fc3491d268ded985603d0aeeeb90'></img>
-                <img src='https://cdn-icons.flaticon.com/svg/3916/3916599.svg?token=exp=1677165234~hmac=7853260fd783891583053ece9158f3db'></img>
+                <img src='https://cdn-icons-png.flaticon.com/512/2951/2951100.png'></img>
                 <Like/>
             </div>
             

@@ -30,9 +30,11 @@
     flex-direction: column;
 }
 .userDesk{
+    margin: auto;
+    width: 35%;
     margin-top: 30px;
     display: flex;
-    justify-content: space-around;
+    gap: 450px;
 }
 .userDesk img{
     width: 50px;
